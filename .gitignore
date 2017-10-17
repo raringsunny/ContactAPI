@@ -1,0 +1,5 @@
+bin/
+obj/
+wwwroot/
+.DS_Store
+.vscode/
